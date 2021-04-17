@@ -5,4 +5,4 @@ This project creates an asynchronous web app that uses Openweather API to fetch 
 
 ## Instructions
 * Run "node server.js" in the command line. 
-* Run "http://localhost:8000"
+* Run "http://localhost:8000" in your browser
